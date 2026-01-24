@@ -13,3 +13,11 @@
 ## Docker desktop
 - https://www.docker.com/ja-jp/products/docker-desktop/
  
+## Raycast
+- https://www.raycast.com
+### Settings > Extensions > Window Management
+- Left Half
+- Maximize
+- Next Display
+- Previous Display
+- Right Half
