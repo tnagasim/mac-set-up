@@ -21,3 +21,9 @@
 - Next Display
 - Previous Display
 - Right Half
+
+## brew
+```
+brew install git
+brew install --cask visual-studio-code
+```
