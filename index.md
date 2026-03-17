@@ -3,27 +3,26 @@
 ## システム設定
 - トラックパッド > ナチュラルなスクロール = OFF
 
-## Karabiner-elements
-- https://karabiner-elements.pqrs.org
-- インストール
-- 個人設定
-  - https://github.com/tnagasim/karabiner-elements をダウンロード
-  - Karabiner-elements > Misc > Open config folder karabiner.jsonをペースト
+## brew
+```
+brew install git
+brew install --cask karaviner-elements
+brew install --cask raycast
+brew install --cask visual-studio-code
+```
 
 ## Docker desktop
 - https://www.docker.com/ja-jp/products/docker-desktop/
+
+## Karabiner-elements
+- 個人設定
+  - https://github.com/tnagasim/karabiner-elements をダウンロード
+  - Karabiner-elements > Misc > Open config folder karabiner.jsonをペースト
  
 ## Raycast
-- https://www.raycast.com
 ### Settings > Extensions > Window Management
 - Left Half
 - Maximize
 - Next Display
 - Previous Display
 - Right Half
-
-## brew
-```
-brew install git
-brew install --cask visual-studio-code
-```
