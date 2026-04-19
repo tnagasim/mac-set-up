@@ -5,7 +5,7 @@
 
 ## brew
 ```
-brew install git
+brew install git mise
 brew install --cask karaviner-elements
 brew install --cask raycast
 brew install --cask visual-studio-code
